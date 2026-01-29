@@ -24,7 +24,6 @@ public:
                 maxcnt=find(f);
                 diff=len-maxcnt;
             }
-            len=h-l+1;
             res=max(len,res);
         }
         if(res==INT_MIN){
