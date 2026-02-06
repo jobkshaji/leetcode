@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/jobkshaji/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/jobkshaji/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jobkshaji/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 | [0076-minimum-window-substring](https://github.com/jobkshaji/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/jobkshaji/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jobkshaji/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jobkshaji/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jobkshaji/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jobkshaji/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -67,10 +70,15 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jobkshaji/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jobkshaji/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jobkshaji/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
