@@ -17,6 +17,7 @@
 | [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/jobkshaji/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jobkshaji/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/jobkshaji/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0141-linked-list-cycle](https://github.com/jobkshaji/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jobkshaji/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/jobkshaji/leetcode/tree/master/0202-happy-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jobkshaji/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jobkshaji/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jobkshaji/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jobkshaji/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
