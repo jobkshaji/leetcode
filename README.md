@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/jobkshaji/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -72,9 +73,11 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jobkshaji/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jobkshaji/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Linked List
