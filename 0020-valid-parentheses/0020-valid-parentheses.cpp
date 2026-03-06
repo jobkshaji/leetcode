@@ -9,10 +9,12 @@ public:
             }
             //else{
             if(st.empty()) return false;
-            if((s[i]==')' && st.top()!='(') || (s[i]=='}' && st.top()!='{') || (s[i]==']' && st.top()!='[')){
+            if((s[i]==')' && st.top()=='(') || (s[i]=='}' && st.top()=='{') || (s[i]==']' && st.top()=='[')){
+                st.pop();
+            }else{
                 return false;
             }
-            st.pop();
+           // return false;
         }
        // }
         if(!st.empty()) return false;
