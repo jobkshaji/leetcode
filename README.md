@@ -51,6 +51,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/jobkshaji/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jobkshaji/leetcode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/jobkshaji/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jobkshaji/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jobkshaji/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jobkshaji/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -67,6 +68,7 @@
 | [0020-valid-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jobkshaji/leetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/jobkshaji/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/jobkshaji/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jobkshaji/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jobkshaji/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jobkshaji/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/jobkshaji/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jobkshaji/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
