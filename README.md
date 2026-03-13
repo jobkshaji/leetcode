@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jobkshaji/leetcode/tree/master/0202-happy-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/jobkshaji/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Bit Manipulation
 |  |
 | ------- |
