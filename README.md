@@ -113,6 +113,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jobkshaji/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jobkshaji/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/jobkshaji/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jobkshaji/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jobkshaji/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -139,6 +140,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jobkshaji/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/jobkshaji/leetcode/tree/master/0202-happy-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jobkshaji/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Bit Manipulation
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/jobkshaji/leetcode/tree/master/0409-longest-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jobkshaji/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
