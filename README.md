@@ -98,6 +98,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jobkshaji/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jobkshaji/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jobkshaji/leetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/jobkshaji/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/jobkshaji/leetcode/tree/master/0383-ransom-note) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jobkshaji/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jobkshaji/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/jobkshaji/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -287,5 +289,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jobkshaji/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
