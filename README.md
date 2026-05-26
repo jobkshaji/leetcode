@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jobkshaji/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jobkshaji/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jobkshaji/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jobkshaji/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/jobkshaji/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jobkshaji/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -61,6 +62,7 @@
 | [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jobkshaji/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jobkshaji/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jobkshaji/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/jobkshaji/leetcode/tree/master/0502-ipo) |
@@ -78,6 +80,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/jobkshaji/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jobkshaji/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jobkshaji/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jobkshaji/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jobkshaji/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -133,6 +136,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jobkshaji/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jobkshaji/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jobkshaji/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jobkshaji/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/jobkshaji/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -196,6 +200,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/jobkshaji/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/jobkshaji/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/jobkshaji/leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/jobkshaji/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/jobkshaji/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -203,6 +208,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jobkshaji/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
