@@ -166,6 +166,7 @@
 | [0022-generate-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jobkshaji/leetcode/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/jobkshaji/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/jobkshaji/leetcode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jobkshaji/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -320,6 +321,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jobkshaji/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jobkshaji/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jobkshaji/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -339,6 +341,7 @@
 | [0101-symmetric-tree](https://github.com/jobkshaji/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jobkshaji/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jobkshaji/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -360,6 +363,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jobkshaji/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jobkshaji/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jobkshaji/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
