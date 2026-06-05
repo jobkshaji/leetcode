@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jobkshaji/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/jobkshaji/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/jobkshaji/leetcode/tree/master/0039-combination-sum) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jobkshaji/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/jobkshaji/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/jobkshaji/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jobkshaji/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/jobkshaji/leetcode/tree/master/0141-linked-list-cycle) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jobkshaji/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/jobkshaji/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/jobkshaji/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jobkshaji/leetcode/tree/master/0169-majority-element) |
