@@ -24,6 +24,7 @@ public:
             int money=p.first;
             int row=p.second.first;
             int col=p.second.second;
+            if(money>res[row][col]) continue;
             int x[4]={-1,1,0,0};
             int y[4]={0,0,-1,1};
             for(int k=0;k<4;k++){
