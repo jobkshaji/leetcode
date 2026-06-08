@@ -1,37 +1,38 @@
 class Solution {
 public:
     int longestSubstring(string s, int k) {
-        int n =s.size();
-        int ans=0;
-        for(int taru=1;taru<=26;taru++){
-            int h=0,l=0;
+        int res=0;
+        for(int target=1;target<=26;target++){
+            int l=0;
+            int h=0;
+            int n=s.size();
             vector<int>f(26,0);
-            int uni=0;
-            int atk=0;
+            int countk=0; //num of unique character having frequency k
+            int unique=0; // num of unique charac
             while(h<n){
                 if(f[s[h]-'a']==0){
-                    uni++;
+                    unique++;
                 }
                 f[s[h]-'a']++;
                 if(f[s[h]-'a']==k){
-                    atk++;
+                    countk++;
                 }
                 h++;
-                while(uni>taru){
-                if(f[s[l]-'a']==k){
-                    atk--;
+                while(unique>target){
+                    if(f[s[l]-'a']==k){
+                        countk--;
+                    }
+                    f[s[l]-'a']--;
+                    if(f[s[l]-'a']==0){
+                        unique--;
+                    }
+                    l++;    
                 }
-                f[s[l]-'a']--;
-                if(f[s[l]-'a']==0){
-                    uni--;
+                if(unique==target && target==countk){
+                    res=max(res,h-l);
                 }
-                l++;
-               }
-               if(uni==taru && atk==taru){
-                ans=max(ans,h-l);
-                }
+            }
         }
-        }
-        return ans;
+        return res;
     }
 };
