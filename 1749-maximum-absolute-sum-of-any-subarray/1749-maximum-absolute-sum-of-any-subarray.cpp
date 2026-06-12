@@ -3,18 +3,18 @@ public:
     int maxAbsoluteSum(vector<int>& nums) {
         int bmax=0;
         int bmin=0;
-        int maxe=INT_MIN;
-        int mine=INT_MAX;
+        int maxc=INT_MIN;
+        int minc=INT_MAX;
         for(int i=0;i<nums.size();i++){
             bmax=max(nums[i],bmax+nums[i]);
-            maxe=max(maxe,bmax);
+            maxc=max(maxc,bmax);
 
             bmin=min(nums[i],bmin+nums[i]);
-            mine=min(mine,bmin);  
+            minc=min(minc,bmin);
         }
-        if(maxe==INT_MIN || mine==INT_MIN){
+        if(maxc==INT_MIN || minc==INT_MAX){
             return 1;
         }
-        return(max(abs(maxe),abs(mine)));
+        return max(abs(maxc),abs(minc));
     }
 };
