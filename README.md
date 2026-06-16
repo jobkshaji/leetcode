@@ -33,6 +33,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jobkshaji/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jobkshaji/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jobkshaji/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/jobkshaji/leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/jobkshaji/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/jobkshaji/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/jobkshaji/leetcode/tree/master/0525-contiguous-array) |
@@ -125,6 +126,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/jobkshaji/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jobkshaji/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jobkshaji/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/jobkshaji/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/jobkshaji/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jobkshaji/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jobkshaji/leetcode/tree/master/0567-permutation-in-string) |
@@ -295,6 +297,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/jobkshaji/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jobkshaji/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/jobkshaji/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/jobkshaji/leetcode/tree/master/0739-daily-temperatures) |
@@ -304,6 +307,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jobkshaji/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jobkshaji/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/jobkshaji/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/jobkshaji/leetcode/tree/master/0739-daily-temperatures) |
