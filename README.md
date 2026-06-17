@@ -155,6 +155,7 @@
 | [0383-ransom-note](https://github.com/jobkshaji/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jobkshaji/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jobkshaji/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/jobkshaji/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/jobkshaji/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/jobkshaji/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jobkshaji/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -299,6 +300,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/jobkshaji/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jobkshaji/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jobkshaji/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/jobkshaji/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -309,6 +311,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/jobkshaji/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jobkshaji/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jobkshaji/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/jobkshaji/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -316,6 +319,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/jobkshaji/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/jobkshaji/leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/jobkshaji/leetcode/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/jobkshaji/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
