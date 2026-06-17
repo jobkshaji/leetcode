@@ -147,6 +147,7 @@
 | [0020-valid-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jobkshaji/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/jobkshaji/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/jobkshaji/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/jobkshaji/leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/jobkshaji/leetcode/tree/master/0242-valid-anagram) |
@@ -294,6 +295,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/jobkshaji/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
