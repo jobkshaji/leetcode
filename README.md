@@ -30,6 +30,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jobkshaji/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jobkshaji/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/jobkshaji/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jobkshaji/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/jobkshaji/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jobkshaji/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -196,6 +197,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jobkshaji/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jobkshaji/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/jobkshaji/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jobkshaji/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jobkshaji/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/jobkshaji/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
