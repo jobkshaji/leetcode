@@ -44,6 +44,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jobkshaji/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/jobkshaji/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/jobkshaji/leetcode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/jobkshaji/leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/jobkshaji/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/jobkshaji/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/jobkshaji/leetcode/tree/master/0704-binary-search) |
@@ -109,6 +110,7 @@
 | [0502-ipo](https://github.com/jobkshaji/leetcode/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/jobkshaji/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/jobkshaji/leetcode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/jobkshaji/leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/jobkshaji/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/jobkshaji/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/jobkshaji/leetcode/tree/master/0767-reorganize-string) |
@@ -350,6 +352,7 @@
 | [0502-ipo](https://github.com/jobkshaji/leetcode/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/jobkshaji/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/jobkshaji/leetcode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/jobkshaji/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/jobkshaji/leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/jobkshaji/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Memoization
@@ -378,6 +381,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jobkshaji/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/jobkshaji/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/jobkshaji/leetcode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/jobkshaji/leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/jobkshaji/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/jobkshaji/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/jobkshaji/leetcode/tree/master/0743-network-delay-time) |
