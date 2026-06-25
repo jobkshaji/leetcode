@@ -69,6 +69,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jobkshaji/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jobkshaji/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/jobkshaji/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/jobkshaji/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jobkshaji/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jobkshaji/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jobkshaji/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -357,6 +358,7 @@
 | [0630-course-schedule-iii](https://github.com/jobkshaji/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/jobkshaji/leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/jobkshaji/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1642-furthest-building-you-can-reach](https://github.com/jobkshaji/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 ## Memoization
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 | [1046-last-stone-weight](https://github.com/jobkshaji/leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jobkshaji/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jobkshaji/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/jobkshaji/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 ## Quickselect
 |  |
 | ------- |
