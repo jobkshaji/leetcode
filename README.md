@@ -76,6 +76,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jobkshaji/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1882-process-tasks-using-servers](https://github.com/jobkshaji/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jobkshaji/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jobkshaji/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jobkshaji/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/jobkshaji/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/jobkshaji/leetcode/tree/master/1383-maximum-performance-of-a-team) |
+| [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [0904-fruit-into-baskets](https://github.com/jobkshaji/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jobkshaji/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/jobkshaji/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jobkshaji/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -414,6 +417,7 @@
 | [1631-path-with-minimum-effort](https://github.com/jobkshaji/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/jobkshaji/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1882-process-tasks-using-servers](https://github.com/jobkshaji/leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -610,6 +614,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/jobkshaji/leetcode/tree/master/0844-backspace-string-compare) |
+| [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Design
 |  |
 | ------- |
