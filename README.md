@@ -32,6 +32,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/jobkshaji/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/jobkshaji/leetcode/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/jobkshaji/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jobkshaji/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/jobkshaji/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jobkshaji/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -92,6 +93,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/jobkshaji/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jobkshaji/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/jobkshaji/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/jobkshaji/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jobkshaji/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/jobkshaji/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/jobkshaji/leetcode/tree/master/0344-reverse-string) |
