@@ -91,6 +91,7 @@
 | [0018-4sum](https://github.com/jobkshaji/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jobkshaji/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/jobkshaji/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jobkshaji/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jobkshaji/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jobkshaji/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -185,6 +186,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jobkshaji/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/jobkshaji/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/jobkshaji/leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/jobkshaji/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/jobkshaji/leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/jobkshaji/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jobkshaji/leetcode/tree/master/0344-reverse-string) |
