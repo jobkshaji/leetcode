@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/jobkshaji/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/jobkshaji/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jobkshaji/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jobkshaji/leetcode/tree/master/0057-insert-interval) |
@@ -91,6 +92,7 @@
 | [0015-3sum](https://github.com/jobkshaji/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jobkshaji/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jobkshaji/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/jobkshaji/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jobkshaji/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/jobkshaji/leetcode/tree/master/0125-valid-palindrome) |
@@ -273,6 +275,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jobkshaji/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jobkshaji/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jobkshaji/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -351,6 +354,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jobkshaji/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/jobkshaji/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobkshaji/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -366,6 +370,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jobkshaji/leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/jobkshaji/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jobkshaji/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jobkshaji/leetcode/tree/master/0503-next-greater-element-ii) |
