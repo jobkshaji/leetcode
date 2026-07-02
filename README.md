@@ -83,6 +83,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/jobkshaji/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jobkshaji/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1882-process-tasks-using-servers](https://github.com/jobkshaji/leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jobkshaji/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jobkshaji/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jobkshaji/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -119,6 +120,7 @@
 | [0905-sort-array-by-parity](https://github.com/jobkshaji/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jobkshaji/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0986-interval-list-intersections](https://github.com/jobkshaji/leetcode/tree/master/0986-interval-list-intersections) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jobkshaji/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -659,6 +661,7 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/jobkshaji/leetcode/tree/master/0844-backspace-string-compare) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jobkshaji/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jobkshaji/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Design
 |  |
