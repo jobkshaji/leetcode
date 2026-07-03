@@ -90,6 +90,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jobkshaji/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jobkshaji/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jobkshaji/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [1631-path-with-minimum-effort](https://github.com/jobkshaji/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jobkshaji/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jobkshaji/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/jobkshaji/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jobkshaji/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jobkshaji/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -463,6 +466,7 @@
 | [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jobkshaji/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jobkshaji/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Quickselect
 |  |
 | ------- |
@@ -654,12 +658,14 @@
 | [0785-is-graph-bipartite](https://github.com/jobkshaji/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jobkshaji/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jobkshaji/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/jobkshaji/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jobkshaji/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jobkshaji/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
 | ------- |
@@ -679,4 +685,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jobkshaji/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
