@@ -9,26 +9,27 @@ public:
             a[s].push_back({d,wt});
             a[d].push_back({s,wt});
         }
-        vector<bool>visit(n+1,0);
-        queue<int>q;
-        q.push(1);
-        visit[1]=true;
-        int ans=INT_MAX;
-        while(!q.empty()){
-            int node=q.front();
-            q.pop();
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        vector<int>dist(n+1,INT_MAX);
+        pq.push({INT_MAX,1});
+        dist[1]=INT_MAX;
+        while(!pq.empty()){
+            pair<int,int>p=pq.top();
+            int node=p.second;
+            pq.pop();
+            if(p.first>dist[p.second]) continue;
             for(int i=0;i<a[node].size();i++){
                 int neigh=a[node][i].first;
                 int weigh=a[node][i].second;
-                ans=min(weigh,ans);
-                if(!visit[neigh]){
-                    visit[neigh]=true;
-                    q.push({neigh});
+                int k=min(weigh,dist[neigh]);
+                if(k<dist[neigh]){
+                    dist[neigh]=k;
+                    pq.push({k,neigh});
                 }
-
             }
+            
         }
-        return ans;
-        
+        int mini=*min_element(dist.begin(),dist.end());
+        return mini;
     }
 };
