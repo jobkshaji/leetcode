@@ -75,6 +75,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jobkshaji/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/jobkshaji/leetcode/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jobkshaji/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1301-number-of-paths-with-max-score](https://github.com/jobkshaji/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jobkshaji/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/jobkshaji/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/jobkshaji/leetcode/tree/master/1383-maximum-performance-of-a-team) |
@@ -306,6 +307,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/jobkshaji/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jobkshaji/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jobkshaji/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1301-number-of-paths-with-max-score](https://github.com/jobkshaji/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jobkshaji/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
@@ -430,6 +432,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jobkshaji/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/jobkshaji/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/jobkshaji/leetcode/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/jobkshaji/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jobkshaji/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jobkshaji/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jobkshaji/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
