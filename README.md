@@ -95,6 +95,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jobkshaji/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jobkshaji/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jobkshaji/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/jobkshaji/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0986-interval-list-intersections](https://github.com/jobkshaji/leetcode/tree/master/0986-interval-list-intersections) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jobkshaji/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/jobkshaji/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/jobkshaji/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jobkshaji/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jobkshaji/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jobkshaji/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
@@ -320,6 +324,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jobkshaji/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/jobkshaji/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jobkshaji/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -371,6 +376,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jobkshaji/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Queue
 |  |
 | ------- |
@@ -430,6 +436,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/jobkshaji/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/jobkshaji/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1642-furthest-building-you-can-reach](https://github.com/jobkshaji/leetcode/tree/master/1642-furthest-building-you-can-reach) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -680,6 +687,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jobkshaji/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jobkshaji/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jobkshaji/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
