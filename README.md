@@ -723,4 +723,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/jobkshaji/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
