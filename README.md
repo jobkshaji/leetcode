@@ -94,6 +94,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jobkshaji/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jobkshaji/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jobkshaji/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jobkshaji/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jobkshaji/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -324,6 +325,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jobkshaji/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/jobkshaji/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jobkshaji/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jobkshaji/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
@@ -369,6 +371,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/jobkshaji/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/jobkshaji/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jobkshaji/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jobkshaji/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jobkshaji/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jobkshaji/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -727,4 +730,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/jobkshaji/leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jobkshaji/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
