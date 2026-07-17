@@ -97,6 +97,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jobkshaji/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jobkshaji/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jobkshaji/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jobkshaji/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jobkshaji/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -212,6 +213,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/jobkshaji/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jobkshaji/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jobkshaji/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -297,6 +299,7 @@
 | [1631-path-with-minimum-effort](https://github.com/jobkshaji/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jobkshaji/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jobkshaji/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jobkshaji/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jobkshaji/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -312,6 +315,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jobkshaji/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jobkshaji/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jobkshaji/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jobkshaji/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -374,6 +378,7 @@
 | [0692-top-k-frequent-words](https://github.com/jobkshaji/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/jobkshaji/leetcode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/jobkshaji/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
@@ -385,6 +390,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/jobkshaji/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/jobkshaji/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jobkshaji/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jobkshaji/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jobkshaji/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jobkshaji/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -751,6 +757,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jobkshaji/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jobkshaji/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jobkshaji/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -758,4 +765,5 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jobkshaji/leetcode/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
