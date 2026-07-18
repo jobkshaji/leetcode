@@ -95,6 +95,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/jobkshaji/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jobkshaji/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1882-process-tasks-using-servers](https://github.com/jobkshaji/leetcode/tree/master/1882-process-tasks-using-servers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jobkshaji/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jobkshaji/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jobkshaji/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2402-meeting-rooms-iii](https://github.com/jobkshaji/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -398,6 +399,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/jobkshaji/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/jobkshaji/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jobkshaji/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jobkshaji/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jobkshaji/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jobkshaji/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -766,6 +768,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jobkshaji/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jobkshaji/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jobkshaji/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
