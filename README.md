@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/jobkshaji/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/jobkshaji/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/jobkshaji/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jobkshaji/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jobkshaji/leetcode/tree/master/0056-merge-intervals) |
@@ -335,6 +336,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jobkshaji/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jobkshaji/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/jobkshaji/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jobkshaji/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jobkshaji/leetcode/tree/master/0062-unique-paths) |
@@ -470,6 +472,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jobkshaji/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/jobkshaji/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jobkshaji/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jobkshaji/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jobkshaji/leetcode/tree/master/0316-remove-duplicate-letters) |
