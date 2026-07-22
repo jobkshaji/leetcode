@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/jobkshaji/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/jobkshaji/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jobkshaji/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jobkshaji/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jobkshaji/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/jobkshaji/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -335,6 +336,7 @@
 | [0022-generate-parentheses](https://github.com/jobkshaji/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jobkshaji/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jobkshaji/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jobkshaji/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jobkshaji/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jobkshaji/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jobkshaji/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -468,6 +470,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jobkshaji/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/jobkshaji/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jobkshaji/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jobkshaji/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/jobkshaji/leetcode/tree/master/0402-remove-k-digits) |
