@@ -30,6 +30,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jobkshaji/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jobkshaji/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/jobkshaji/leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/jobkshaji/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/jobkshaji/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jobkshaji/leetcode/tree/master/0162-find-peak-element) |
@@ -429,6 +430,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jobkshaji/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/jobkshaji/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/jobkshaji/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jobkshaji/leetcode/tree/master/0287-find-the-duplicate-number) |
