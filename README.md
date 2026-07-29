@@ -241,6 +241,7 @@
 | [0071-simplify-path](https://github.com/jobkshaji/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jobkshaji/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jobkshaji/leetcode/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/jobkshaji/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/jobkshaji/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/jobkshaji/leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/jobkshaji/leetcode/tree/master/0242-valid-anagram) |
@@ -350,6 +351,7 @@
 | [0064-minimum-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jobkshaji/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jobkshaji/leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/jobkshaji/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jobkshaji/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jobkshaji/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jobkshaji/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
