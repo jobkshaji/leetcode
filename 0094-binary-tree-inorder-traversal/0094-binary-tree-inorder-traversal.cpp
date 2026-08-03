@@ -11,12 +11,11 @@
  */
 class Solution {
 public:
-    void fun(TreeNode * node,vector<int>&res){
-        if(node==nullptr) return;
-        fun(node->left,res);
-        res.push_back(node->val);
-        fun(node->right,res);
-        return;
+    void fun(TreeNode * root,vector<int>&res){
+        if(root==nullptr) return ;
+        fun(root->left,res);
+        res.push_back(root->val);
+        fun(root->right,res);
     }
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int>res;
