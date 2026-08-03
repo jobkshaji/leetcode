@@ -11,16 +11,17 @@
  */
 class Solution {
 public:
-    bool issame(TreeNode* p, TreeNode* q){
-        if(p==nullptr && q==nullptr) return true;
-        if(p==nullptr || q==nullptr) return false;
-        if(p->val!=q->val) return false;
-        return(issame(p->right,q->right) && issame(p->left,q->left));
+    bool isame(TreeNode *root, TreeNode *sub){
+        if(root==nullptr && sub==nullptr) return true;
+        if(root==nullptr || sub==nullptr) return false;
+        if(root->val!=sub->val) return false;
+
+        return isame(root->left,sub->left) && isame(root->right,sub->right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(subRoot==nullptr) return true;
         if(root==nullptr) return false;
-        if(issame(root,subRoot)) return true;
-        return(isSubtree(root->left,subRoot)||isSubtree(root->right,subRoot));
+        if(isame(root,subRoot)) return true;
+        return isSubtree(root->left,subRoot) || isSubtree(root->right,subRoot);
     }
 };
