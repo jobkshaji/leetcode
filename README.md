@@ -825,4 +825,12 @@
 | ------- |
 | [0062-unique-paths](https://github.com/jobkshaji/leetcode/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jobkshaji/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jobkshaji/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jobkshaji/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
