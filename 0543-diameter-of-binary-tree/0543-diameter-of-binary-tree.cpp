@@ -12,13 +12,12 @@
 class Solution {
 public:
     int res=0;
-    int fun(TreeNode * root){
+    int fun(TreeNode*root){
         if(root==nullptr) return 0;
-        int left=fun(root->left);
-        int right=fun(root->right);
-        int sum=left+right;
-        res=max(res,sum);
-        return 1+max(left,right);
+        int l=fun(root->left);
+        int r=fun(root->right);
+        res=max(res,l+r);
+        return 1+max(l,r);
     }
     int diameterOfBinaryTree(TreeNode* root) {
         fun(root);
