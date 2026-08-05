@@ -839,4 +839,5 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jobkshaji/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/jobkshaji/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
