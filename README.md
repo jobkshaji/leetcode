@@ -76,6 +76,7 @@
 | [0778-swim-in-rising-water](https://github.com/jobkshaji/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jobkshaji/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/jobkshaji/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0860-lemonade-change](https://github.com/jobkshaji/leetcode/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jobkshaji/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/jobkshaji/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/jobkshaji/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -508,6 +509,7 @@
 | [0630-course-schedule-iii](https://github.com/jobkshaji/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/jobkshaji/leetcode/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/jobkshaji/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0860-lemonade-change](https://github.com/jobkshaji/leetcode/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/jobkshaji/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/jobkshaji/leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jobkshaji/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
