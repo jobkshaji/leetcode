@@ -854,5 +854,10 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/jobkshaji/leetcode/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jobkshaji/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
