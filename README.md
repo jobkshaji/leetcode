@@ -89,6 +89,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/jobkshaji/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/jobkshaji/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jobkshaji/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/jobkshaji/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/jobkshaji/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jobkshaji/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -154,6 +155,7 @@
 | [0881-boats-to-save-people](https://github.com/jobkshaji/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/jobkshaji/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jobkshaji/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/jobkshaji/leetcode/tree/master/0986-interval-list-intersections) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jobkshaji/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jobkshaji/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -188,6 +190,7 @@
 | [0905-sort-array-by-parity](https://github.com/jobkshaji/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jobkshaji/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/jobkshaji/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/jobkshaji/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/jobkshaji/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jobkshaji/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/jobkshaji/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
