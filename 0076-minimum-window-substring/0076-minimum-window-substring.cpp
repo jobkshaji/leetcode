@@ -1,37 +1,33 @@
 class Solution {
 public:
-    bool equal(vector<int>&a,vector<int>&c){
+    bool correct(vector<int>&f,vector<int>&m){
         for(int i=0;i<256;i++){
-            if(a[i]<c[i]) return false;
+            if(f[i]<m[i]) return false;
         }
         return true;
     }
     string minWindow(string s, string t) {
         int l=0;
-        int h=0;
+        int n=s.size();
+        int start=0;
         int res=INT_MAX;
-        int k=s.size();
-        int j=t.size();
-        int start=-1;
-        vector<int>a(256,0);
-        vector<int>c(256,0);
-        if(j>k) return "";
-        for(int i=0;i<j;i++){
-            c[t[i]]++;
+        vector<int>m(256);
+        for(int i=0;i<t.size();i++){
+            m[t[i]-'A']++;
         }
-        for(h=0;h<k;h++){
-            a[s[h]]++;
-            while(equal(a,c)){
+        vector<int>f(256);
+        for(int h=0;h<n;h++){
+            f[s[h]-'A']++;
+            while(correct(f,m)){
                 int len=h-l+1;
                 if(res>len){
                     res=len;
                     start=l;
                 }
-                a[s[l]]--;
+                f[s[l]-'A']--;
                 l++;
             }
         }
-        if(res==INT_MAX) return "";
-        return s.substr(start,res);
+        return (res==INT_MAX)?"":s.substr(start,res);
     }
 };
