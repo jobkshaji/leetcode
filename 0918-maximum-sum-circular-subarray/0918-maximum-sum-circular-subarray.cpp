@@ -1,30 +1,26 @@
 class Solution {
 public:
-    int sumofarray(vector<int>&nums){
+    int maxSubarraySumCircular(vector<int>& nums) {
         int sum=0;
-        for(int i=0;i<nums.size();i++){
+        int n=nums.size();
+        for(int i=0;i<n;i++){
             sum+=nums[i];
         }
-        return sum;
-    }
-    int maxSubarraySumCircular(vector<int>& nums) {
-        int bmax=nums[0];
-        int bmin=nums[0];
-        int maxe=nums[0];
-        int mine=nums[0];
-        for(int i=1;i<nums.size();i++){
-            bmax=max(nums[i],bmax+nums[i]);
-            maxe=max(maxe,bmax);
+        int bmax=0;
+        int bmin=0;
+        int maxc=INT_MIN;
+        int minc=INT_MAX;
+        for(int i=0;i<n;i++){
+            bmax=max(bmax+nums[i],nums[i]);
+            maxc=max(maxc,bmax);
 
-            bmin=min(nums[i],bmin+nums[i]);
-            mine=min(bmin,mine);
+            bmin=min(bmin+nums[i],nums[i]);
+            minc=min(minc,bmin);
         }
-        int sum=sumofarray(nums);
-        if(maxe<0){
-            return maxe;
+        if(maxc<0){
+            return maxc;
         }else{
-            int maxsum=sum-mine;
-            return(max(maxsum,maxe));
+            return max(maxc,sum-minc);
         }
     }
 };
