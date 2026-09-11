@@ -5,9 +5,10 @@ public:
         int sum=0;
         int res=0;
         f[0]=1;
-        for(int i=0;i<nums.size();i++){
+        for (int i=0;i<nums.size();i++){
             sum+=nums[i];
-            int freq=f[sum-k];
+            int q=sum-k;
+            int freq=f[q];
             res+=freq;
             f[sum]++;
         }
