@@ -276,6 +276,7 @@
 | [1143-longest-common-subsequence](https://github.com/jobkshaji/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jobkshaji/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jobkshaji/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [3330-find-the-original-typed-string-i](https://github.com/jobkshaji/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jobkshaji/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jobkshaji/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
