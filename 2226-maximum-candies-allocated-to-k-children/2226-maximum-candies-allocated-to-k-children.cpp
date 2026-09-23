@@ -1,22 +1,16 @@
 class Solution {
 public:
-    bool fun(vector<int>&candies , long long m , long long k){
-        int n=candies.size();
-        long long cnt=0;
-        for(int i=0;i<n;i++){
-            cnt+=candies[i]/m;
-            if(cnt>=k) return true;
+    bool fun(vector<int>&candies,long long m, long long k){
+        long long cand=0;
+        for(int i=0;i<candies.size();i++){
+            cand+=candies[i]/m;
         }
+        if(cand>=k) return true;
         return false;
     }
     int maximumCandies(vector<int>& candies, long long k) {
-        int n=candies.size();
-        int mx=0;
-        for(int i=0;i<n;i++){
-            mx=max(mx,candies[i]);
-        }
-        long long l=1;
-        long long h=mx;
+        int l=1;
+        int h=*max_element(candies.begin(),candies.end());
         long long res=0;
         while(l<=h){
             long long m=(l+h)/2;
