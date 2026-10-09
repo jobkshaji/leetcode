@@ -2,50 +2,47 @@ class Solution {
 public:
     int x[4]={-1,1,0,0};
     int y[4]={0,0,-1,1};
-    bool valid(int i, int j, int n, int m){
+    bool valid(int i,int j, int n,int m){
         if(i<0 || i>=n || j<0 || j>=m) return false;
         return true;
     }
-    int orangesRotting(vector<vector<int>>& a) {
-        int n=a.size();
-        int m=a[0].size();
+    int orangesRotting(vector<vector<int>>& grid) {
+        int n=grid.size();
+        int m=grid[0].size();
         int t=0;
+        queue<pair<int,int>>pq;
         int fresh=0;
-        int i,j;
-        queue<pair<int,int>>q;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(a[i][j]==2){
-                    q.push({i,j});
-                    a[i][j]=-2;
-                }
-                else {
-                    if(a[i][j]==1){
-                        fresh++;
-                    }
+                if(grid[i][j]==2){
+                    pq.push({i,j});
+                    grid[i][j]=-2;
+                }else if(grid[i][j]==1){
+                    fresh++;
                 }
             }
         }
-        while(!q.empty() and fresh>0){
+        while(!pq.empty() && fresh >0){
             t++;
-            int s=q.size();
+            int s=pq.size();
             while(s--){
-                pair<int,int>p=q.front();
-                q.pop();
-                int r=p.first;
-                int c=p.second;
+                pair<int,int>p=pq.front();
+                pq.pop();
+                int row=p.first;
+                int col=p.second;
                 for(int k=0;k<4;k++){
-                    int row=r+x[k];
-                    int col=c+y[k];
-                    if(valid(row,col,n,m) and a[row][col]==1){
-                        q.push({row,col});
-                        a[row][col]=-2;
+                    int r=row+x[k];
+                    int c=col+y[k];
+                    if(valid(r,c,n,m)&& grid[r][c]==1){
+                        pq.push({r,c});
+                        grid[r][c]=-2;
                         fresh--;
                     }
                 }
             }
+
         }
-        if(fresh>0) return -1;
+        if(fresh >0) return -1;
         return t;
     }
 };
